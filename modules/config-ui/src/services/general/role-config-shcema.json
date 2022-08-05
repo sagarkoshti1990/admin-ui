@@ -1,6 +1,6 @@
 {
   "name": "roles",
-  "label": "Roles",
+  "label": "Role-based Module Assignment",
   "subModules": [
     {
       "name": "roles",
@@ -8,14 +8,14 @@
       "sections": [
         {
           "name": "",
-          "label": "Roles",
+          "label": "Role-based Module Assignment",
           "schema": {
             "title": "",
             "type": "object",
             "properties": {
               "roles": {
                 "type": "object",
-                "title": "Roles",
+                "title": "Role-based Module Assignment",
                 "properties": {
                   "teacher": {
                     "title": "Select the modules for the teacher role",
