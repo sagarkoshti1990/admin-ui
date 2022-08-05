@@ -1,0 +1,175 @@
+{
+  "name": "roles",
+  "label": "Roles",
+  "subModules": [
+    {
+      "name": "roles",
+      "label": "roles",
+      "sections": [
+        {
+          "name": "",
+          "label": "Roles",
+          "schema": {
+            "title": "",
+            "type": "object",
+            "properties": {
+              "roles": {
+                "type": "object",
+                "title": "Roles",
+                "properties": {
+                  "teacher": {
+                    "title": "Select the modules for the teacher role",
+                    "type": "array",
+                    "items": {
+                      "default": [
+                        "assessment",
+                        "attendance",
+                        "calendar",
+                        "classes",
+                        "mylearning",
+                        "notification",
+                        "profile",
+                        "schools",
+                        "student",
+                        "teacher-app",
+                        "visits",
+                        "worksheet"
+                      ],
+                      "enum": [
+                        "assessment",
+                        "attendance",
+                        "calendar",
+                        "classes",
+                        "mylearning",
+                        "notification",
+                        "profile",
+                        "schools",
+                        "student",
+                        "teacher-app",
+                        "visits",
+                        "worksheet"
+                      ],
+                      "enumNames": [
+                        "Assessment",
+                        "Attendance",
+                        "Calendar",
+                        "Classes",
+                        "My Learning",
+                        "Notification",
+                        "Profile",
+                        "Schools",
+                        "Student",
+                        "Teacher-app",
+                        "Visits",
+                        "Worksheet"
+                      ]
+                    },
+                    "uniqueItems": true
+                  },
+                  "mentor": {
+                    "title": "Select the modules for the mentor role",
+                    "type": "array",
+                    "items": {
+                      "default": [
+                        "assessment",
+                        "attendance",
+                        "calendar",
+                        "classes",
+                        "mylearning",
+                        "notification",
+                        "profile",
+                        "schools",
+                        "student",
+                        "teacher-app",
+                        "visits",
+                        "worksheet"
+                      ],
+                      "enum": [
+                        "assessment",
+                        "attendance",
+                        "calendar",
+                        "classes",
+                        "mylearning",
+                        "notification",
+                        "profile",
+                        "schools",
+                        "student",
+                        "teacher-app",
+                        "visits",
+                        "worksheet"
+                      ],
+                      "enumNames": [
+                        "Assessment",
+                        "Attendance",
+                        "Calendar",
+                        "Classes",
+                        "My Learning",
+                        "Notification",
+                        "Profile",
+                        "Schools",
+                        "Student",
+                        "Teacher-app",
+                        "Visits",
+                        "Worksheet"
+                      ]
+                    },
+                    "uniqueItems": true
+                  },
+                  "monitor": {
+                    "title": "Select the modules for the monitor role",
+                    "type": "array",
+                    "items": {
+                      "default": [
+                        "assessment",
+                        "attendance",
+                        "calendar",
+                        "classes",
+                        "mylearning",
+                        "notification",
+                        "profile",
+                        "schools",
+                        "student",
+                        "teacher-app",
+                        "visits",
+                        "worksheet"
+                      ],
+                      "enum": [
+                        "assessment",
+                        "attendance",
+                        "calendar",
+                        "classes",
+                        "mylearning",
+                        "notification",
+                        "profile",
+                        "schools",
+                        "student",
+                        "teacher-app",
+                        "visits",
+                        "worksheet"
+                      ],
+                      "enumNames": [
+                        "Assessment",
+                        "Attendance",
+                        "Calendar",
+                        "Classes",
+                        "My Learning",
+                        "Notification",
+                        "Profile",
+                        "Schools",
+                        "Student",
+                        "Teacher-app",
+                        "Visits",
+                        "Worksheet"
+                      ]
+                    },
+                    "uniqueItems": true
+                  }
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
