@@ -31,7 +31,7 @@
                         "profile",
                         "schools",
                         "student",
-                        "teacher-app",
+                        "app",
                         "visits",
                         "worksheet"
                       ],
@@ -45,23 +45,9 @@
                         "profile",
                         "schools",
                         "student",
-                        "teacher-app",
+                        "app",
                         "visits",
                         "worksheet"
-                      ],
-                      "enumNames": [
-                        "Assessment",
-                        "Attendance",
-                        "Calendar",
-                        "Classes",
-                        "My Learning",
-                        "Notification",
-                        "Profile",
-                        "Schools",
-                        "Student",
-                        "Teacher-app",
-                        "Visits",
-                        "Worksheet"
                       ]
                     },
                     "uniqueItems": true
@@ -80,7 +66,7 @@
                         "profile",
                         "schools",
                         "student",
-                        "teacher-app",
+                        "app",
                         "visits",
                         "worksheet"
                       ],
@@ -94,23 +80,9 @@
                         "profile",
                         "schools",
                         "student",
-                        "teacher-app",
+                        "app",
                         "visits",
                         "worksheet"
-                      ],
-                      "enumNames": [
-                        "Assessment",
-                        "Attendance",
-                        "Calendar",
-                        "Classes",
-                        "My Learning",
-                        "Notification",
-                        "Profile",
-                        "Schools",
-                        "Student",
-                        "Teacher-app",
-                        "Visits",
-                        "Worksheet"
                       ]
                     },
                     "uniqueItems": true
@@ -129,7 +101,7 @@
                         "profile",
                         "schools",
                         "student",
-                        "teacher-app",
+                        "app",
                         "visits",
                         "worksheet"
                       ],
@@ -143,23 +115,9 @@
                         "profile",
                         "schools",
                         "student",
-                        "teacher-app",
+                        "app",
                         "visits",
                         "worksheet"
-                      ],
-                      "enumNames": [
-                        "Assessment",
-                        "Attendance",
-                        "Calendar",
-                        "Classes",
-                        "My Learning",
-                        "Notification",
-                        "Profile",
-                        "Schools",
-                        "Student",
-                        "Teacher-app",
-                        "Visits",
-                        "Worksheet"
                       ]
                     },
                     "uniqueItems": true
